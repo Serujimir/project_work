@@ -1,0 +1,4 @@
+lvl_reached=4
+lvl_1_score=5000
+lvl_2_score=7500
+lvl_3_score=10000
